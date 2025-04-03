@@ -1,5 +1,3 @@
-Documentação: https://carb43.github.io/documentation/
-
 # Docsy
 
 [![Project status: active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)

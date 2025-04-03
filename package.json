@@ -40,6 +40,7 @@
     "bootstrap": "5.3.3"
   },
   "devDependencies": {
+    "autoprefixer": "^10.4.21",
     "cpy-cli": "^5.0.0",
     "hugo-extended": "^0.145.0",
     "netlify-cli": "^19.0.2",
