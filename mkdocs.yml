@@ -1,0 +1,6 @@
+site_name: Carby
+nav:
+  - Home: index.md
+  - Documentação: documentation/documentation.md
+  - Integrações: integrations.md
+#theme: readthedocs
