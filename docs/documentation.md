@@ -1,3 +1,3 @@
-## [Onboarding](/onboarding)
-## [Arquitetura](/architecture)
-## [Repositórios](/repositories)
+## [Onboarding](/documentation/site/onboarding)
+## [Arquitetura](/documentation/site/architecture)
+## [Repositórios](/documentation/site/repositories)

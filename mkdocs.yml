@@ -1,6 +1,6 @@
 site_name: Carby
 nav:
-  - Home: onboarding.md
+  - Home: index.md
   - Documentação: documentation.md
   - Integrações: integrations.md
 #theme: readthedocs
