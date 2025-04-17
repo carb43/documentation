@@ -109,7 +109,7 @@
 
 <details>
     <summary>
-        ## Configurando o Github
+        Configurando o Github
     </summary>
     ** Passo a Passo**
     <br />1. Gerar chave SSH: ssh-keygen -t rsa -C "SEU_EMAIL@SEU_EMAIL.com.br" -b 4096
